@@ -1,2 +1,2 @@
-isim = input("Adınızı girinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn: ")
-print(f"Merhaba, {isim}! Python dünyassfgfsdfaaaaaaaafgfdfına sdfghjjwssndkxxxxxxxxxxxxxxxxmsdfghmögfddvbnsdddddddddhoş geldin ")
+isim = input("Adınızı girinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnndfghjnnnn: ")
+print(f"Merhaba, {isim}! Python dünyassfgfsdfaaaaaaadfgdfafgfdffgına sdfghjjwssndkxxxxxxxxxxxxxxxxmsdfghmögfddvbnsdddddddddhoş geldin ")
