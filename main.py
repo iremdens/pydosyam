@@ -1,2 +1,2 @@
 isim = input("Adınızı girin: ")
-print(f"Merhaba, {isim}! Python dünyassfgfsdfgfdfına ddddddddhoş geldin ")
+print(f"Merhaba, {isim}! Python dünyassfgfsdfaaaaaaaafgfdfına ddddddddhoş geldin ")
